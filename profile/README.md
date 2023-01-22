@@ -15,16 +15,32 @@ streaming services in one, easy to use application.
 
 > *All your music, in one place.*
 
-### [`melody.kit`][melody.kit]
+### [`melody.match`][melody.match]
 
-> *An API for MelodyKit.*
+> *Matching identical tracks.*
 
 ### [`melody.web`][melody.web]
 
 > *All your music, in one place.*
 
+### [`melody.spotify`][melody.apple]
+
+> *An API wrapper for Spotify written in Python.*
+
+### [`melody.apple`][melody.apple]
+
+> *An API wrapper for Apple Music written in Python.*
+
+### [`melody.yandex`][melody.yandex]
+
+> *An API wrapper for Yandex Music written in Python.*
+
 [MelodyKit]: https://melodykit.app/
 
 [melody.app]: https://github.com/MelodyKit/melody.app
-[melody.kit]: https://github.com/MelodyKit/melody.kit
+[melody.match]: https://github.com/MelodyKit/melody.match
 [melody.web]: https://github.com/MelodyKit/melody.web
+
+[melody.spotify]: https://github.com/MelodyKit/melody.spotify
+[melody.apple]: https://github.com/MelodyKit/melody.apple
+[melody.yandex]: https://github.com/MelodyKit/melody.yandex
