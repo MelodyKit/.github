@@ -15,10 +15,6 @@ streaming services in one, easy to use application.
 
 > *All your music, in one place.*
 
-### [`melody.match`][melody.match]
-
-> *Matching identical tracks.*
-
 ### [`melody.web`][melody.web]
 
 > *All your music, in one place.*
@@ -26,5 +22,4 @@ streaming services in one, easy to use application.
 [MelodyKit]: https://melodykit.app/
 
 [melody.app]: https://github.com/MelodyKit/melody.app
-[melody.match]: https://github.com/MelodyKit/melody.match
 [melody.web]: https://github.com/MelodyKit/melody.web
