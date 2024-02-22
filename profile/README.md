@@ -19,7 +19,7 @@ streaming services in one, easy to use application.
 
 > *All your music, in one place.*
 
-### [`melody.docs`][melody.docs]
+### [`melody.dev`][melody.dev]
 
 > *MelodyKit documentation.*
 
@@ -27,4 +27,4 @@ streaming services in one, easy to use application.
 
 [melody.app]: https://github.com/MelodyKit/melody.app
 [melody.web]: https://github.com/MelodyKit/melody.web
-[melody.docs]: https://github.com/MelodyKit/melody.docs
+[melody.dev]: https://github.com/MelodyKit/melody.dev
