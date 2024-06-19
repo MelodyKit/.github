@@ -15,16 +15,21 @@ streaming services in one, easy to use application.
 
 > *All your music, in one place.*
 
+### [`melody.kit`][melody.kit]
+
+> *MelodyKit core.*
+
 ### [`melody.web`][melody.web]
 
-> *All your music, in one place.*
+> *MelodyKit web application.*
 
 ### [`melody.dev`][melody.dev]
 
-> *MelodyKit documentation.*
+> *MelodyKit developer documentation.*
 
 [MelodyKit]: https://melodykit.app/
 
 [melody.app]: https://github.com/MelodyKit/melody.app
+[melody.kit]: https://github.com/MelodyKit/melody.kit
 [melody.web]: https://github.com/MelodyKit/melody.web
 [melody.dev]: https://github.com/MelodyKit/melody.dev
