@@ -19,10 +19,6 @@ streaming services in one, easy to use application.
 
 > *MelodyKit core.*
 
-### [`melody.web`][melody.web]
-
-> *MelodyKit web application.*
-
 ### [`melody.dev`][melody.dev]
 
 > *MelodyKit developer documentation.*
@@ -31,5 +27,4 @@ streaming services in one, easy to use application.
 
 [melody.app]: https://github.com/MelodyKit/melody.app
 [melody.kit]: https://github.com/MelodyKit/melody.kit
-[melody.web]: https://github.com/MelodyKit/melody.web
 [melody.dev]: https://github.com/MelodyKit/melody.dev
